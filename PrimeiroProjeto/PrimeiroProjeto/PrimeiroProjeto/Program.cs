@@ -42,7 +42,7 @@ namespace PrimeiroProjeto {
             Console.WriteLine("GetLenght(0) Matrix: " + matrixdouble.GetLength(0));
             Console.WriteLine("GetLenght(1) Matrix: " + matrixdouble.GetLength(1));
 
-
+            Console.WriteLine("Testando Check Out 3");
 
         }
     }
